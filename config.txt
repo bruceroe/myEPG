@@ -1,0 +1,16 @@
+#epg链接，一行一个
+https://epg.pw/xmltv/epg_TW.xml
+https://epg.pw/xmltv/epg_HK.xml
+https://epg.pw/xmltv/epg_MY.xml
+https://epg.tv.darwinchow.com/epg.xml
+https://epg.27481716.xyz/epg.xml
+https://raw.githubusercontent.com/fanmingming/live/main/e.xml
+https://e.erw.cc/all.xml
+http://epg.51zmt.top:8000/e.xml
+#https://iptv-epg.org/files/epg-tw.xml
+#https://iptv-epg.org/files/epg-cn.xml
+#https://iptv-epg.org/files/epg-cn.xml.gz
+#https://iptv-epg.org/files/epg-hk.xml
+#https://iptv-epg.org/files/epg-mo.xml
+#https://epg.pw/xmltv/epg_CN.xml
+#https://epg.pw/xmltv/epg_CN.xml.gz
